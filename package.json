@@ -14,7 +14,7 @@
     "input",
     "linux"
   ],
-  "author": "Tasos Soukoulis <soukoulis.tasos@gmail.com>",
+  "author": "Sai <saisamarth.infosec@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.5.1",
